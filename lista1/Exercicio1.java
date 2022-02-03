@@ -1,8 +1,8 @@
-package lista1;
+package Java_Bloco1.lista1;
 
 import java.util.Scanner;
 
-public class ExercicioUm {
+public class Exercicio1 {
 	public static void main(String[] args) {
 		int anos, meses, dias;
 		int ano=365;
